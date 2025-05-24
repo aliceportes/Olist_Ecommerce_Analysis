@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM orders WHERE order_status = 'canceled';
