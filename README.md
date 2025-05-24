@@ -5,7 +5,7 @@ It explores customer behavior, sales performance, and order patterns.
 
 ---
 
-## Project Overview
+## Overview
 
 Using raw transaction data from Olist's marketplace, this project focuses on the **order and revenue funnels** — visualizing customer flow, payment behavior, category performance, and regional trends.  
 The dashboard allows users to switch between an **Orders View** and a **Revenue View** using interactive page navigation.
